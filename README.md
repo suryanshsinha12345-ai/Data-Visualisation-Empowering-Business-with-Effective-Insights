@@ -29,17 +29,4 @@ The simulation covered:
 
 The dashboard was developed to present business insights through interactive visualisations and an easy-to-understand reporting structure.
 
-## 📂 Project Files
 
-- `Tata_Internship.pbix` — Power BI dashboard file
-- `dashboard-screenshot.png` — Dashboard preview
-- `Certificate.pdf` — Certificate of completion
-
-## 🎓 Certificate
-
-This project was completed as a **Forage Job Simulation**.
-
-**Certificate:**  
-[View Certificate](TATA_DATA_VISUALISATION_CERTIFICATE.pdf)
-
-**Completed:** September 25, 2026
